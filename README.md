@@ -1,3 +1,7 @@
 # hello-world
+My thirty somethingth repo
 
-This is an edit
+Joseph Steed
+Age 22
+Junior
+Management Information Systems
